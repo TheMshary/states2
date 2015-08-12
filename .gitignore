@@ -1,2 +1,3 @@
 *.pyc
-media*\
+*/media/*
+*/migrations/*
